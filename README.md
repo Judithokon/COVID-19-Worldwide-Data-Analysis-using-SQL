@@ -1,5 +1,4 @@
 # COVID-19-Worldwide-Data-Analysis-using-SQL
-Used SQL to generate insights regarding COVID-19 Worldwide dataset
 
 The "COVID-19 Worldwide Data Analysis" repository contains scripts and views for exploring and analyzing COVID-19 data on a global scale. The repository includes SQL queries that utilize various techniques such as joins, CTEs, temp tables, window functions, and aggregate functions to derive insights from the data. The queries cover a range of topics including mortality rate, infection rate, vaccination progress, highest death counts, and global case trends.
 
