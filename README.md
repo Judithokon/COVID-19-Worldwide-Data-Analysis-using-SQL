@@ -1,4 +1,4 @@
-# COVID-19-Worldwide-Data-Analysis-using-SQL
+# COVID-19 Worldwide Data Analysis using SQL
 
 Leveraged SQL to generate insights on the global impact of COVID-19 and track vaccination progress worldwide
 
